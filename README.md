@@ -1,5 +1,5 @@
 # Colocation-CIDR-List
-List of colocation ranges to be used to blacklist in squid cache
+List of over 15,000 colocation ranges to be used to blacklist in squid cache
 
 The goal of this list is to identify all webhosts and prevent them from connecting to your squid-cache open proxy. Please be sure to add more and report false positvies.
 
